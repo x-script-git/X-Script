@@ -1,6 +1,6 @@
-local urutan_item = 33 -- urutan itemnya di dalam BP
-local itemid_to_drop =  1308 -- itemid item yang diambil dari BP
-local jumlah_drop = 200 -- Jumlah drop item nya [Max 200]
+--local urutan_item = 33 -- urutan itemnya di dalam BP
+--local itemid_to_drop =  1308 -- itemid item yang diambil dari BP
+--local jumlah_drop = 200 -- Jumlah drop item nya [Max 200]
 
 function watermark()
 local dialog = [[
