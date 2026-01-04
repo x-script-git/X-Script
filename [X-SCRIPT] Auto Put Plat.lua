@@ -1,6 +1,6 @@
-local itemid = 5640
-local delay = 100
-local world_type = "island" -- island / normal
+--local itemid = 5640
+--local delay = 100
+--local world_type = "island" -- island / normal
 
 local maxY = 53
 if world_type == "island" then
